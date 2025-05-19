@@ -1,3 +1,3 @@
-def suma(a,b):
-    c = a + b
+def resta(a,b):
+    c = a - b
     return c
